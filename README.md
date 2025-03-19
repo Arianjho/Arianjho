@@ -1,7 +1,7 @@
 Hi 👋 My name is Arian Josafat Hidalgo Ordoñez
 ==============================================
 
-Fullstack Java Developer | Angular | NextJS
+Fullstack Java Developer | Angular
 -------------------------------------------
 
 Web developer with solid experience in designing and implementing business logic, data management, and software architecture. Expert in various platforms and languages ​​with advanced knowledge of web development tools and practices.
